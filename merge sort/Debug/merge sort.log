@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Алексей\source\repos\merge sort\merge sort\Source.cpp(41,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алексей\source\repos\merge sort\merge sort\Source.cpp(45,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Алексей\source\repos\merge sort\merge sort\Source.cpp(72,12): warning C4018: <: несоответствие типов со знаком и без знака
+  merge sort.vcxproj -> C:\Users\Алексей\source\repos\merge sort\Debug\merge sort.exe
